@@ -1,0 +1,3 @@
+Warning: modrinth_for_gun_fight/download/Gun Fight Zero 0.1.2[cannot download].mrpack Downloading is prohibited because FTB category mods are banned from being included in integration packs by Modrinth. Any consequences are your own responsibility!
+
+警告：modrinth_for_gun_fight/download/Gun Fight Zero 0.1.2[cannot download].mrpack禁止下载，因为FTB类mod被modrinth禁止传入整合包，造成任何后果自行承担！
